@@ -24,19 +24,6 @@ public class ExampleUnitTest {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     @Test
     public void testIsEmailValid() {
         String testEmail = "anupamchugh@mail.ru";
